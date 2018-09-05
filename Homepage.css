@@ -1,34 +1,35 @@
-
-
 body {
-    background: linear-gradient(-45deg, #FFFFFF, #E3E2E2);
-
-
+     background: linear-gradient(-45deg, #FFFFFF, #E3E2E2);
 }
+
 h1 {
     font-family:georgia;
     color: black;
     text-align: center;
-
 }
 
-ul {font-family: courier new;
+ul {
+    font-family: courier new;
     color: black;
-    text-align: left;}
+    text-align: left;
+}
 
-p {font-family: courier new;
+p {
+    font-family: courier new;
     color: black;
     text-align: center;
 }
-img {
-    border-radius: 50%;
 
+img {
+    border-radius: 50%;    
 }
 
-h3 {font-family:georgia;
+h3 {
+    font-family:georgia;
     color: black;
-    text-align: center}
+    text-align: center
+}
 
-    footer {background:#CFCFCF;
-   
+    footer {
+        background:#CFCFCF;
 }
